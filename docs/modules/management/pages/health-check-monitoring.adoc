@@ -71,7 +71,7 @@ hazelcast:
   advanced-network:
     rest-server-socket-endpoint-config:
       endpoint-groups:
-        HEALTCH_CHECK:
+        HEALTH_CHECK:
           enabled: true
 ----
 ====
